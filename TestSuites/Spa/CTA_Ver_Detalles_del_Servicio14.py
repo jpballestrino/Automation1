@@ -15,7 +15,7 @@ class ver_detalles(unittest.TestCase):
 
     def test_detalles(self):
         active_id = get_id_of_active_run("GLITZI")
-        self.driver.get("https://glitzi.com.mx/servicios/spa")
+        self.driver.get("https://li41-183.members.linode.com/servicios/spa")
         time.sleep(1)
         popup = self.driver.find_element(By.XPATH, value='//*[@id="modalCoaches"]/div/div/div[1]/button/span')
         popup.click()

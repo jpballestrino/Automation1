@@ -14,7 +14,7 @@ class filtro_m_dia(unittest.TestCase):
 
     def test_filtro_dia(self):
         active_id = get_id_of_active_run("GLITZI")
-        self.driver.get("https://glitzi.com.mx/servicios/maquillaje")
+        self.driver.get("mail31696@irondev.com.mx/servicios/maquillaje")
         pop_up = self.driver.find_element(By.XPATH, value='//*[@id="modalCoaches"]/div/div/div[1]/button/span')
         pop_up.click()
         cta_maq_dia = self.driver.find_element(By.XPATH, value='/html/body/div[3]/div/div/nav/div/div/ul/li[2]/a')

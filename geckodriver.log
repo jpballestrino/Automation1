@@ -1,0 +1,909 @@
+1657385166516	geckodriver	INFO	Listening on 127.0.0.1:60968
+1657385169582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilebbwLxl"
+1657385169831	Marionette	INFO	Marionette enabled
+1657385169835	Marionette	INFO	Listening on port 60979
+WebDriver BiDi listening on ws://localhost:60969
+Read port: 60979
+1657385170032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilebbwLxl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60969/devtools/browser/a919fdb8-18ea-4333-8942-f98a50381f94
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+1657385179286	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1657385183963	Marionette	INFO	Stopped listening on port 60979
+1657385286259	geckodriver	INFO	Listening on 127.0.0.1:61165
+1657385289354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileYDve4x"
+1657385289559	Marionette	INFO	Marionette enabled
+1657385289562	Marionette	INFO	Listening on port 61176
+WebDriver BiDi listening on ws://localhost:61166
+Read port: 61176
+1657385289633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileYDve4x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61166/devtools/browser/fdf277cb-6862-447b-b607-696e386b0628
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+1657385298732	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1657385303411	Marionette	INFO	Stopped listening on port 61176
+1657385437826	geckodriver	INFO	Listening on 127.0.0.1:61448
+1657385440924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileUsKiyN"
+1657385441126	Marionette	INFO	Marionette enabled
+1657385441129	Marionette	INFO	Listening on port 61481
+WebDriver BiDi listening on ws://localhost:61449
+Read port: 61481
+1657385441200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileUsKiyN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61449/devtools/browser/8e44e9ad-7836-4592-a411-904f659c7cbe
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657385450053	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1657385450885	Marionette	INFO	Stopped listening on port 61481
+1657385479838	geckodriver	INFO	Listening on 127.0.0.1:61627
+1657385482925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilemOJvnv"
+1657385483139	Marionette	INFO	Marionette enabled
+1657385483141	Marionette	INFO	Listening on port 61641
+WebDriver BiDi listening on ws://localhost:61628
+Read port: 61641
+1657385483213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilemOJvnv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61628/devtools/browser/216c2392-2ef1-4a99-b520-3bbb8f92aac0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657385499256	Marionette	INFO	Stopped listening on port 61641
+1657385590764	geckodriver	INFO	Listening on 127.0.0.1:61823
+1657385593883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileSON54B"
+1657385594090	Marionette	INFO	Marionette enabled
+1657385594093	Marionette	INFO	Listening on port 61835
+WebDriver BiDi listening on ws://localhost:61824
+Read port: 61835
+1657385594166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileSON54B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61824/devtools/browser/cbd485f3-39e5-4b68-9a5d-2a7ec947095e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657385610145	Marionette	INFO	Stopped listening on port 61835
+1657386439941	geckodriver	INFO	Listening on 127.0.0.1:62239
+1657386443053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileHMRPZx"
+1657386443271	Marionette	INFO	Marionette enabled
+1657386443274	Marionette	INFO	Listening on port 62250
+WebDriver BiDi listening on ws://localhost:62240
+Read port: 62250
+1657386443362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileHMRPZx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62240/devtools/browser/b8e14d46-cce0-4684-86ec-f71ce316aaa5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657386456489	Marionette	INFO	Stopped listening on port 62250
+1657386607238	geckodriver	INFO	Listening on 127.0.0.1:62481
+1657386610343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileRop0Zf"
+1657386610548	Marionette	INFO	Marionette enabled
+1657386610551	Marionette	INFO	Listening on port 62494
+WebDriver BiDi listening on ws://localhost:62482
+Read port: 62494
+1657386610640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileRop0Zf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62482/devtools/browser/cda5ec3c-e33a-4a05-9a58-685ccbe12187
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657386623599	Marionette	INFO	Stopped listening on port 62494
+1657386737471	geckodriver	INFO	Listening on 127.0.0.1:62634
+1657386740556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilewvsXzw"
+1657386740758	Marionette	INFO	Marionette enabled
+1657386740761	Marionette	INFO	Listening on port 62679
+WebDriver BiDi listening on ws://localhost:62635
+Read port: 62679
+1657386740849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilewvsXzw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62635/devtools/browser/40bad429-d803-4d0f-9a45-93fc2b2f5b2d
+1657386742875	Marionette	INFO	Stopped listening on port 62679
+1657386791009	geckodriver	INFO	Listening on 127.0.0.1:62735
+1657386794109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileELdgAl"
+1657386794313	Marionette	INFO	Marionette enabled
+1657386794316	Marionette	INFO	Listening on port 62760
+WebDriver BiDi listening on ws://localhost:62736
+Read port: 62760
+1657386794402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileELdgAl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62736/devtools/browser/8e4e4ecd-7e3c-4e5d-8e3c-58b0c2896bbe
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657386906950	Marionette	INFO	Stopped listening on port 62760
+1657386974919	geckodriver	INFO	Listening on 127.0.0.1:62940
+1657386978025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilePloVKV"
+1657386978237	Marionette	INFO	Marionette enabled
+1657386978240	Marionette	INFO	Listening on port 62952
+WebDriver BiDi listening on ws://localhost:62941
+Read port: 62952
+1657386978327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilePloVKV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62941/devtools/browser/a3569940-00ad-47db-93f5-8cb2b5220657
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657386991373	Marionette	INFO	Stopped listening on port 62952
+1657387041098	geckodriver	INFO	Listening on 127.0.0.1:63104
+1657387044207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileXgqLhr"
+1657387044412	Marionette	INFO	Marionette enabled
+1657387044415	Marionette	INFO	Listening on port 63116
+WebDriver BiDi listening on ws://localhost:63105
+Read port: 63116
+1657387044504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileXgqLhr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63105/devtools/browser/caae3f72-37e8-456b-af8a-48c2793411db
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657387057428	Marionette	INFO	Stopped listening on port 63116
+1657387670963	geckodriver	INFO	Listening on 127.0.0.1:63699
+1657387674032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileGjdlUW"
+1657387674269	Marionette	INFO	Marionette enabled
+1657387674272	Marionette	INFO	Listening on port 63713
+WebDriver BiDi listening on ws://localhost:63700
+Read port: 63713
+1657387674452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileGjdlUW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63700/devtools/browser/c0704dfa-e3b7-438a-a511-9b2abd362e5e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657387688936	Marionette	INFO	Stopped listening on port 63713
+1657387690261	geckodriver	INFO	Listening on 127.0.0.1:63844
+1657387693336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile8jJktI"
+1657387693536	Marionette	INFO	Marionette enabled
+1657387693538	Marionette	INFO	Listening on port 63862
+WebDriver BiDi listening on ws://localhost:63845
+Read port: 63862
+1657387693625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile8jJktI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63845/devtools/browser/1e72a96a-a641-4e84-909c-ec7efd4657c7
+1657387705710	Marionette	INFO	Stopped listening on port 63862
+1657387736424	geckodriver	INFO	Listening on 127.0.0.1:64011
+1657387739506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilevycFZZ"
+1657387739707	Marionette	INFO	Marionette enabled
+1657387739710	Marionette	INFO	Listening on port 64024
+WebDriver BiDi listening on ws://localhost:64012
+Read port: 64024
+1657387739796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilevycFZZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64012/devtools/browser/3280849c-fe62-4b6a-838b-d211c7f7b681
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657387753394	Marionette	INFO	Stopped listening on port 64024
+1657387819789	geckodriver	INFO	Listening on 127.0.0.1:64310
+1657387822858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileuMrEPj"
+1657387823061	Marionette	INFO	Marionette enabled
+1657387823064	Marionette	INFO	Listening on port 64324
+WebDriver BiDi listening on ws://localhost:64311
+Read port: 64324
+1657387823161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileuMrEPj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64311/devtools/browser/701b1420-f7a3-460d-91bb-571efcf3fbd1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657387837472	Marionette	INFO	Stopped listening on port 64324
+1657387996890	geckodriver	INFO	Listening on 127.0.0.1:64626
+1657387999997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilexPbiYD"
+1657388000199	Marionette	INFO	Marionette enabled
+1657388000202	Marionette	INFO	Listening on port 64656
+WebDriver BiDi listening on ws://localhost:64627
+Read port: 64656
+1657388000289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilexPbiYD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64627/devtools/browser/1bb2bdd7-1322-4337-8072-9990d89079f7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657388014698	Marionette	INFO	Stopped listening on port 64656
+1657388119624	geckodriver	INFO	Listening on 127.0.0.1:64930
+1657388122733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiledoUJ5m"
+1657388122933	Marionette	INFO	Marionette enabled
+1657388122936	Marionette	INFO	Listening on port 64954
+WebDriver BiDi listening on ws://localhost:64931
+Read port: 64954
+1657388123024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiledoUJ5m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64931/devtools/browser/527a9a33-2715-410f-948a-5a5678d24e29
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657388136573	Marionette	INFO	Stopped listening on port 64954
+1657389335517	geckodriver	INFO	Listening on 127.0.0.1:49487
+1657389338626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilejVDiuJ"
+1657389338828	Marionette	INFO	Marionette enabled
+1657389338831	Marionette	INFO	Listening on port 49513
+WebDriver BiDi listening on ws://localhost:49488
+Read port: 49513
+1657389338925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilejVDiuJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49488/devtools/browser/14812c31-b3c8-4f8b-affa-b9b964aa15ef
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389350205	Marionette	INFO	Stopped listening on port 49513
+1657389351630	geckodriver	INFO	Listening on 127.0.0.1:49625
+1657389354731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiledHh3ic"
+1657389354929	Marionette	INFO	Marionette enabled
+1657389354931	Marionette	INFO	Listening on port 49640
+WebDriver BiDi listening on ws://localhost:49626
+Read port: 49640
+1657389355019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiledHh3ic\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49626/devtools/browser/082a44af-b5bd-41ef-963c-2249bfc62c5f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389369137	Marionette	INFO	Stopped listening on port 49640
+1657389462388	geckodriver	INFO	Listening on 127.0.0.1:49921
+1657389465446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilehKfLtW"
+1657389465638	Marionette	INFO	Marionette enabled
+1657389465641	Marionette	INFO	Listening on port 49946
+WebDriver BiDi listening on ws://localhost:49922
+Read port: 49946
+1657389465730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilehKfLtW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49922/devtools/browser/154b5960-c503-46ac-a657-89b27173f58e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389477014	Marionette	INFO	Stopped listening on port 49946
+1657389580723	geckodriver	INFO	Listening on 127.0.0.1:50145
+1657389583826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileUnjveV"
+1657389584024	Marionette	INFO	Marionette enabled
+1657389584027	Marionette	INFO	Listening on port 50159
+WebDriver BiDi listening on ws://localhost:50146
+Read port: 50159
+1657389584113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileUnjveV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50146/devtools/browser/c0033bd6-5f7a-4efb-9729-45949162e049
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389594942	Marionette	INFO	Stopped listening on port 50159
+1657389621011	geckodriver	INFO	Listening on 127.0.0.1:50290
+1657389624079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilepcfWeL"
+1657389624297	Marionette	INFO	Marionette enabled
+1657389624301	Marionette	INFO	Listening on port 50306
+WebDriver BiDi listening on ws://localhost:50291
+Read port: 50306
+1657389624399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilepcfWeL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50291/devtools/browser/7d82eca6-89f4-4d21-bcbd-0564abc0f5ba
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=f8PdkGBm6qHLetIkn560j04prUsmTvC4&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 351: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=f8PdkGBm6qHLetIkn560j04prUsmTvC4&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 361: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657389641547	Marionette	INFO	Stopped listening on port 50306
+1657389677491	geckodriver	INFO	Listening on 127.0.0.1:50495
+1657389680598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilerFUeFj"
+1657389680794	Marionette	INFO	Marionette enabled
+1657389680797	Marionette	INFO	Listening on port 50507
+WebDriver BiDi listening on ws://localhost:50496
+Read port: 50507
+1657389680883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilerFUeFj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50496/devtools/browser/a6560728-ae29-4d11-bf04-5565255887bd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 351: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 361: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657389697825	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:175:68
+ajax@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:170:136
+u@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:388:113
+p/<@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:381:2
+get/<@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:321:277
+jsFontsKey@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:336:95
+fontsKey@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:331:332
+get@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:321:92
+p@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:378:62
+hxr20k/g.sendInfo@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:388:454
+@https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=CmCa5xmBMKg0Pt22YT0szHaHxWYI6nRe&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3:391:309
+1657389698039	Marionette	INFO	Stopped listening on port 50507
+1657389781700	geckodriver	INFO	Listening on 127.0.0.1:50697
+1657389784790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiletFWgeD"
+1657389784988	Marionette	INFO	Marionette enabled
+1657389784991	Marionette	INFO	Listening on port 50725
+WebDriver BiDi listening on ws://localhost:50698
+Read port: 50725
+1657389785077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiletFWgeD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50698/devtools/browser/69307ce4-dc1b-4787-96d3-f8c7ea90eda8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=j1ByQUIvmoovah0S6V8DUdNt7W7Qd0l2&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 351: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=j1ByQUIvmoovah0S6V8DUdNt7W7Qd0l2&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 361: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389806310	Marionette	INFO	Stopped listening on port 50725
+1657389845455	geckodriver	INFO	Listening on 127.0.0.1:50885
+1657389848533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileTXTZbi"
+1657389848729	Marionette	INFO	Marionette enabled
+1657389848732	Marionette	INFO	Listening on port 50920
+WebDriver BiDi listening on ws://localhost:50886
+Read port: 50920
+1657389848818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileTXTZbi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50886/devtools/browser/c864e75f-0376-4a3d-ad6d-f17215f32d4e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=ImavbJRnbymtQtvvB5bZ9hibK9UJpiWF&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 351: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=ImavbJRnbymtQtvvB5bZ9hibK9UJpiWF&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 361: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389874268	Marionette	INFO	Stopped listening on port 50920
+1657389932908	geckodriver	INFO	Listening on 127.0.0.1:51105
+1657389936000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiler6ymcW"
+1657389936200	Marionette	INFO	Marionette enabled
+1657389936203	Marionette	INFO	Listening on port 51134
+WebDriver BiDi listening on ws://localhost:51106
+Read port: 51134
+1657389936287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiler6ymcW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51106/devtools/browser/2701a9b3-e6a2-4607-9506-24cab23ad871
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=2UR4Wy0jkGqDLutBZIFthhBG06LYdCZ3&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 351: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=2UR4Wy0jkGqDLutBZIFthhBG06LYdCZ3&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 361: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389956029	Marionette	INFO	Stopped listening on port 51134
+1657389967692	geckodriver	INFO	Listening on 127.0.0.1:51290
+1657389970747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilejhedrU"
+1657389970945	Marionette	INFO	Marionette enabled
+1657389970948	Marionette	INFO	Listening on port 51303
+WebDriver BiDi listening on ws://localhost:51291
+Read port: 51303
+1657389971034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilejhedrU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51291/devtools/browser/f8867a19-b745-4496-9551-46921c5549da
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=ZekrCJwkaQC4tRHnSGv0hsMeeYMfpqRg&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 351: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=ZekrCJwkaQC4tRHnSGv0hsMeeYMfpqRg&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 361: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657389990438	Marionette	INFO	Stopped listening on port 51303
+1657390030099	geckodriver	INFO	Listening on 127.0.0.1:51486
+1657390033184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile7btwbH"
+1657390033381	Marionette	INFO	Marionette enabled
+1657390033384	Marionette	INFO	Listening on port 51498
+WebDriver BiDi listening on ws://localhost:51487
+Read port: 51498
+1657390033470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile7btwbH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51487/devtools/browser/66364956-fa4b-401c-a615-083fc0c6512f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=jp10fT75dCcj1Icrww33ZAJOGDzfVD7m&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 351: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.opencontrol.mx/v1/logo.htm?m=mamxsaxkv1orncgrdj7a&s=jp10fT75dCcj1Icrww33ZAJOGDzfVD7m&u=openpay&k=pk-7becc4e5f14f44fc812837aec13bacc3, line 361: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657390052707	Marionette	INFO	Stopped listening on port 51498
+1657390081471	geckodriver	INFO	Listening on 127.0.0.1:51663
+1657390084538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileONXb5W"
+1657390084735	Marionette	INFO	Marionette enabled
+1657390084737	Marionette	INFO	Listening on port 51675
+WebDriver BiDi listening on ws://localhost:51664
+Read port: 51675
+1657390084824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileONXb5W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51664/devtools/browser/514dff28-998a-4ca8-8791-97a3f6b9c5f2
+1657390096900	Marionette	INFO	Stopped listening on port 51675
+1657390112006	geckodriver	INFO	Listening on 127.0.0.1:51809
+1657390115109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileIE8xNC"
+1657390115307	Marionette	INFO	Marionette enabled
+1657390115310	Marionette	INFO	Listening on port 51838
+WebDriver BiDi listening on ws://localhost:51810
+Read port: 51838
+1657390115396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileIE8xNC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51810/devtools/browser/1fad3767-1f33-4d33-958e-64ddc68b41bf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657390134276	Marionette	INFO	Stopped listening on port 51838
+1657390165185	geckodriver	INFO	Listening on 127.0.0.1:51995
+1657390168245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilex650c2"
+1657390168439	Marionette	INFO	Marionette enabled
+1657390168442	Marionette	INFO	Listening on port 52008
+WebDriver BiDi listening on ws://localhost:51996
+Read port: 52008
+1657390168528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilex650c2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51996/devtools/browser/16aab7ca-3ae8-4915-88f1-ca0c62925ec3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657390186753	Marionette	INFO	Stopped listening on port 52008
+1657390234701	geckodriver	INFO	Listening on 127.0.0.1:52162
+1657390237746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileEuL3qg"
+1657390237952	Marionette	INFO	Marionette enabled
+1657390237955	Marionette	INFO	Listening on port 52188
+WebDriver BiDi listening on ws://localhost:52163
+Read port: 52188
+1657390238049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileEuL3qg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52163/devtools/browser/71201c59-1261-43dd-a8c1-1717e974fad3
+1657390250235	Marionette	INFO	Stopped listening on port 52188
+1657390251360	geckodriver	INFO	Listening on 127.0.0.1:52303
+1657390254460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilew9r5Tq"
+1657390254656	Marionette	INFO	Marionette enabled
+1657390254659	Marionette	INFO	Listening on port 52316
+WebDriver BiDi listening on ws://localhost:52304
+Read port: 52316
+1657390254747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilew9r5Tq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52304/devtools/browser/7dc9cb7b-0542-4a05-b7cd-292a63dd56e5
+1657390263917	Marionette	INFO	Stopped listening on port 52316
+1657390324893	geckodriver	INFO	Listening on 127.0.0.1:52572
+1657390328005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile2GXv1i"
+1657390328200	Marionette	INFO	Marionette enabled
+1657390328203	Marionette	INFO	Listening on port 52583
+WebDriver BiDi listening on ws://localhost:52573
+Read port: 52583
+1657390328288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile2GXv1i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52573/devtools/browser/02437dd9-9b1d-4d23-9a06-53f7d077793e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657390341883	Marionette	INFO	Stopped listening on port 52583
+1657390357948	geckodriver	INFO	Listening on 127.0.0.1:52794
+1657390361047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileDrchRe"
+1657390361243	Marionette	INFO	Marionette enabled
+1657390361246	Marionette	INFO	Listening on port 52806
+WebDriver BiDi listening on ws://localhost:52795
+Read port: 52806
+1657390361334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileDrchRe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52795/devtools/browser/8ae813be-5f60-4607-b224-745af776bb39
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657390378916	Marionette	INFO	Stopped listening on port 52806
+1657394001696	geckodriver	INFO	Listening on 127.0.0.1:58388
+1657394004735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiledoNi6V"
+1657394004963	Marionette	INFO	Marionette enabled
+1657394004965	Marionette	INFO	Listening on port 58402
+WebDriver BiDi listening on ws://localhost:58389
+Read port: 58402
+1657394005170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiledoNi6V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58389/devtools/browser/a95421d8-92af-4b6b-a1d4-00efd5f6f15f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394018670	Marionette	INFO	Stopped listening on port 58402
+1657394034664	geckodriver	INFO	Listening on 127.0.0.1:58628
+1657394037758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileyuQtZW"
+1657394037960	Marionette	INFO	Marionette enabled
+1657394037963	Marionette	INFO	Listening on port 58654
+WebDriver BiDi listening on ws://localhost:58629
+Read port: 58654
+1657394038050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileyuQtZW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58629/devtools/browser/0192c5c1-5ba9-42b5-b80a-12866e4171c6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394056013	Marionette	INFO	Stopped listening on port 58654
+1657394096702	geckodriver	INFO	Listening on 127.0.0.1:58945
+1657394099816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileiXyClj"
+1657394100014	Marionette	INFO	Marionette enabled
+1657394100017	Marionette	INFO	Listening on port 58958
+WebDriver BiDi listening on ws://localhost:58946
+Read port: 58958
+1657394100111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileiXyClj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58946/devtools/browser/2403b226-263b-454f-9376-36b62f361b37
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394113890	Marionette	INFO	Stopped listening on port 58958
+1657394129871	geckodriver	INFO	Listening on 127.0.0.1:59196
+1657394132927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile4aN8Hn"
+1657394133127	Marionette	INFO	Marionette enabled
+1657394133130	Marionette	INFO	Listening on port 59209
+WebDriver BiDi listening on ws://localhost:59197
+Read port: 59209
+1657394133216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile4aN8Hn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59197/devtools/browser/52425e15-c268-4fe2-a0bb-46fa02657c27
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394150735	Marionette	INFO	Stopped listening on port 59209
+1657394197971	geckodriver	INFO	Listening on 127.0.0.1:59486
+1657394201039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileEIL5qN"
+1657394201240	Marionette	INFO	Marionette enabled
+1657394201243	Marionette	INFO	Listening on port 59513
+WebDriver BiDi listening on ws://localhost:59487
+Read port: 59513
+1657394201334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileEIL5qN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59487/devtools/browser/0665702a-4490-4aa2-9b81-5974230920bb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394214972	Marionette	INFO	Stopped listening on port 59513
+1657394230793	geckodriver	INFO	Listening on 127.0.0.1:59747
+1657394233888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile59OH8n"
+1657394234090	Marionette	INFO	Marionette enabled
+1657394234093	Marionette	INFO	Listening on port 59772
+WebDriver BiDi listening on ws://localhost:59748
+Read port: 59772
+1657394234180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile59OH8n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59748/devtools/browser/510155d7-8cdb-4322-95de-48c8fd6aa9ec
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394252254	Marionette	INFO	Stopped listening on port 59772
+1657394699561	geckodriver	INFO	Listening on 127.0.0.1:60425
+1657394702640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilekwP1oB"
+1657394702841	Marionette	INFO	Marionette enabled
+1657394702844	Marionette	INFO	Listening on port 60451
+WebDriver BiDi listening on ws://localhost:60426
+Read port: 60451
+1657394702937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilekwP1oB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60426/devtools/browser/66a48571-8d1d-4f7a-9be2-9f8b9d635e1c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394717031	Marionette	INFO	Stopped listening on port 60451
+1657394733496	geckodriver	INFO	Listening on 127.0.0.1:60679
+1657394736550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile72i8x2"
+1657394736747	Marionette	INFO	Marionette enabled
+1657394736750	Marionette	INFO	Listening on port 60696
+WebDriver BiDi listening on ws://localhost:60680
+Read port: 60696
+1657394736837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile72i8x2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60680/devtools/browser/af742d1f-f272-49a9-97e4-83c432038b39
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://glitzi.com.mx"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657394755344	Marionette	INFO	Stopped listening on port 60696
+1657572762420	geckodriver	INFO	Listening on 127.0.0.1:49677
+1657572765501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilehvYfHR"
+1657572765742	Marionette	INFO	Marionette enabled
+1657572765745	Marionette	INFO	Listening on port 49690
+WebDriver BiDi listening on ws://localhost:49678
+Read port: 49690
+1657572765930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilehvYfHR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49678/devtools/browser/a0ad5a11-1c2f-4d0d-a99f-b80ac4802bbd
+1657572775333	Marionette	INFO	Stopped listening on port 49690
+1657572816075	geckodriver	INFO	Listening on 127.0.0.1:49843
+1657572819155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileCtgxPC"
+1657572819378	Marionette	INFO	Marionette enabled
+1657572819382	Marionette	INFO	Listening on port 49869
+WebDriver BiDi listening on ws://localhost:49844
+Read port: 49869
+1657572819459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileCtgxPC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49844/devtools/browser/f0977bbd-ea5e-4c37-b5e6-3e495d816a9c
+1657572828268	Marionette	INFO	Stopped listening on port 49869
+1657572838866	geckodriver	INFO	Listening on 127.0.0.1:49998
+1657572841953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiler2Yl2M"
+1657572842146	Marionette	INFO	Marionette enabled
+1657572842149	Marionette	INFO	Listening on port 50012
+WebDriver BiDi listening on ws://localhost:49999
+Read port: 50012
+1657572842218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofiler2Yl2M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49999/devtools/browser/13e228b1-e208-4898-9bfd-f560354ac6d1
+1657572850497	Marionette	INFO	Stopped listening on port 50012
+1657572860732	geckodriver	INFO	Listening on 127.0.0.1:50139
+1657572863823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilezaEq2V"
+1657572864026	Marionette	INFO	Marionette enabled
+1657572864028	Marionette	INFO	Listening on port 50154
+WebDriver BiDi listening on ws://localhost:50140
+Read port: 50154
+1657572864096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofilezaEq2V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50140/devtools/browser/f30f43e1-e5ed-4881-bedd-a4e1121a6fc4
+1657572879120	Marionette	INFO	Stopped listening on port 50154
+1657572900301	geckodriver	INFO	Listening on 127.0.0.1:50312
+1657572903367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileXJKjKe"
+1657572903576	Marionette	INFO	Marionette enabled
+1657572903579	Marionette	INFO	Listening on port 50326
+WebDriver BiDi listening on ws://localhost:50313
+Read port: 50326
+1657572903649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileXJKjKe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50313/devtools/browser/26961707-902a-4251-a243-a21c77a0607f
+1657572915305	Marionette	INFO	Stopped listening on port 50326
+1657573149447	geckodriver	INFO	Listening on 127.0.0.1:50757
+1657573152489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileBpizdy"
+1657573152684	Marionette	INFO	Marionette enabled
+1657573152687	Marionette	INFO	Listening on port 50771
+WebDriver BiDi listening on ws://localhost:50758
+Read port: 50771
+1657573152756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileBpizdy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50758/devtools/browser/619e16aa-a6b4-44b5-a398-08f1eff32e93
+1657573164851	Marionette	INFO	Stopped listening on port 50771
+1657573186277	geckodriver	INFO	Listening on 127.0.0.1:50916
+1657573189341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile8ViX6p"
+1657573189552	Marionette	INFO	Marionette enabled
+1657573189555	Marionette	INFO	Listening on port 50946
+WebDriver BiDi listening on ws://localhost:50917
+Read port: 50946
+1657573189726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile8ViX6p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50917/devtools/browser/58782e18-0562-4ada-b36e-7f1742f0cfca
+1657573197579	Marionette	INFO	Stopped listening on port 50946
+!!! error running onStopped callback: TypeError: callback is not a function
+1657573208255	geckodriver	INFO	Listening on 127.0.0.1:51056
+1657573211337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile288Q2l"
+1657573211530	Marionette	INFO	Marionette enabled
+1657573211533	Marionette	INFO	Listening on port 51077
+WebDriver BiDi listening on ws://localhost:51057
+Read port: 51077
+1657573211602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofile288Q2l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51057/devtools/browser/dc2bb09c-60b6-4f8c-a1b3-718f735bf0f9
+1657573223815	Marionette	INFO	Stopped listening on port 51077
+[Parent 21576, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1657573284946	geckodriver	INFO	Listening on 127.0.0.1:51254
+1657573288000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileU0iDWd"
+1657573288206	Marionette	INFO	Marionette enabled
+1657573288209	Marionette	INFO	Listening on port 51282
+WebDriver BiDi listening on ws://localhost:51255
+Read port: 51282
+1657573288278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juanp\\AppData\\Local\\Temp\\rust_mozprofileU0iDWd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51255/devtools/browser/8638dc5a-1989-474e-bb7b-8601ec592d1c
+1657573308267	Marionette	INFO	Stopped listening on port 51282
