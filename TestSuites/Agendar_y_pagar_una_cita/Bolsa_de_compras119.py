@@ -2,18 +2,20 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 import time
 import unittest
-from QaseAPI import actualizar_state,get_id_of_active_run
-from WebDriver import driverBuilder
+from TestSuites.config.QaseAPI import actualizar_state,get_id_of_active_run
 import os
+from ..config.params import dataEnv
 
-os.environ['GH_TOKEN'] = "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"
+data=dataEnv()
+
+os.environ['GH_TOKEN'] = data.TokenGecko
 
 class Bolsa(unittest.TestCase):
 
     @classmethod
     def setUpClass(inst):
         # create a new Chrome session
-        inst.driver = driverBuilder.firefox()
+        inst.driver = data.navigator()
         inst.driver.implicitly_wait(4)
         inst.driver.maximize_window()
         # navigate to the application home page
@@ -21,7 +23,7 @@ class Bolsa(unittest.TestCase):
         # enter search keyword and submit
     def test_bolsa(self):
         active_id = get_id_of_active_run("GLITZI")
-        self.driver.get("https://glitzi.com.mx/")
+        self.driver.get(data.Web)
         time.sleep(4)
         WebDriverWait(self.driver, timeout=3).until(lambda d: d.find_element(by=By.CLASS_NAME, value='modal-closes.publicity-button'))
         popup = self.driver.find_element(By.XPATH,value='//button[@style="background: transparent"]')

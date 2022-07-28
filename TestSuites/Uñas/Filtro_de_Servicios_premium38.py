@@ -1,21 +1,26 @@
 from selenium.webdriver.common.by import By
 import time
 import unittest
-from WebDriver import driverBuilder
-from QaseAPI import actualizar_state,get_id_of_active_run
+from TestSuites.config.QaseAPI import actualizar_state,get_id_of_active_run
+import os
+from ..config.params import dataEnv
 
-class filtro_premium_spa(unittest.TestCase):
+data=dataEnv()
+
+os.environ['GH_TOKEN'] = data.TokenGecko
+
+class filtro_premium_uñas(unittest.TestCase):
     @classmethod
     def setUpClass(inst):
         # create a new Chrome session
-        inst.driver = driverBuilder.chrome()
+        inst.driver = data.navigator()
         inst.driver.implicitly_wait(3)
         inst.driver.maximize_window()
         # navigate to the application home page
 
     def test_filtro(self):
         active_id = get_id_of_active_run("GLITZI")
-        self.driver.get("https://li41-183.members.linode.com/servicios/unas")
+        self.driver.get(data.Web+"/servicios/unas")
         time.sleep(1)
         popup = self.driver.find_element(By.XPATH, value='//*[@id="modalCoaches"]/div/div/div[1]/button/span')
         popup.click()
