@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test report</title>
+    <meta name="generator" content="HTMLTestRunner 1.0.17"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" href="stylesheet.css">
+    <script src="script.js"></script>
+    <style>
+        
+    </style>
+    <script>
+        
+    </script>
+</head>
+<body>
+<div class='heading'>
+    <h1 style="margin-left:1ex;">Test report</h1>
+    
+    <p class='attribute'><strong>Start Time : </strong> 2022-07-30 22:47:40</p>
+    
+    <p class='attribute'><strong>Duration : </strong> 0:00:11.079739</p>
+    
+    <p class='attribute'><strong>Status : </strong> Error 1</p>
+    
+    <p class='attribute'><strong>Descrition : </strong> HTMLTestReport</p>
+    
+    <p class='attribute'><strong>Tested By : </strong> Unknown</p>
+    
+</div>
+<div>
+    <p id='show_detail_line'><b>Show</b>
+        <button><a href='javascript:showCase(0)' style="color:#660066;">Summary</a></button>
+        <button><a href='javascript:showCase(1)' style="color:#660066;">Failed</a></button>
+        <button><a href='javascript:showCase(2)' style="color:#660066;">Passed</a></button>
+        <button><a href='javascript:showCase(3)' style="color:#660066;">All</a></button>
+    </p>
+    <table id='result_table'>
+        <colgroup>
+            <col align='left'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+        </colgroup>
+        <tr id='header_row'>
+            <td>Test Group/Test case</td>
+            <td>Count</td>
+            <td>Pass</td>
+            <td>Fail</td>
+            <td>Error</td>
+            <td>View</td>
+        </tr>
+        
+        <tr class='errorClass' style="font-weight:bold;color:white;">
+            <td><a href="javascript:showClassDetail('c1','1')">TestSuites.Uñas.Agregar_Servicios_Recomendado__Servicio79.serv_recom_y_serv</a></td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td>
+                <button><a href="javascript:showClassDetail('c1','1')"
+                           style="color:#660066;">Detail</a></button>
+            </td>
+        </tr>
+            
+            <tr id="ft1.1" class='none'>
+                <td class='errorCase'>
+                    <div class='testcase'>
+                        <a class="popup_link" onfocus='this.blur();'
+                           href="javascript:showTestDetail('div_ft1.1')">test_bolsa</a>
+                    </div>
+                </td>
+                <td colspan='5' align='center'>
+                    <div>
+                        <!--css div popup start-->
+                        <button>
+                            <a class="popup_link" onfocus='this.blur();'
+                               href="javascript:showTestDetail('div_ft1.1')" style="color:#660066;">
+                                ERROR
+                            </a></button>
+                        <div id='div_ft1.1' class="popup_window">
+                            <div style='text-align: right; color:red;cursor:pointer'>
+                                <a onfocus='this.blur();'
+                                   onclick="document.getElementById('div_ft1.1').style.display = 'none'; "
+                                   style="color:red;">
+                                    [x]</a>
+                            </div>
+                            <pre></pre>
+                            <pre style="color: red;">Traceback (most recent call last):
+  File "C:\Users\juanp\PycharmProjects\Automation1\TestSuites\Uñas\Agregar_Servicios_Recomendado__Servicio79.py", line 38, in test_bolsa
+    CTA_agregar_recom.click()
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 89, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 773, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 430, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=103.0.5060.134)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C25FD3+2187219]
+	Ordinal0 [0x00BBE6D1+1763025]
+	Ordinal0 [0x00AD3D40+802112]
+	Ordinal0 [0x00B02C03+994307]
+	Ordinal0 [0x00AF89B3+952755]
+	Ordinal0 [0x00B1CB8C+1100684]
+	Ordinal0 [0x00AF8394+951188]
+	Ordinal0 [0x00B1CDA4+1101220]
+	Ordinal0 [0x00B2CFC2+1167298]
+	Ordinal0 [0x00B1C9A6+1100198]
+	Ordinal0 [0x00AF6F80+946048]
+	Ordinal0 [0x00AF7E76+949878]
+	GetHandleVerifier [0x00EC90C2+2721218]
+	GetHandleVerifier [0x00EBAAF0+2662384]
+	GetHandleVerifier [0x00CB137A+526458]
+	GetHandleVerifier [0x00CB0416+522518]
+	Ordinal0 [0x00BC4EAB+1789611]
+	Ordinal0 [0x00BC97A8+1808296]
+	Ordinal0 [0x00BC9895+1808533]
+	Ordinal0 [0x00BD26C1+1844929]
+	BaseThreadInitThunk [0x75B46739+25]
+	RtlGetFullPathName_UEx [0x77A48FEF+1215]
+	RtlGetFullPathName_UEx [0x77A48FBD+1165]
+
+</pre>
+                        </div>
+                        <!--css div popup end-->
+                    </div>
+                </td>
+            </tr>
+            
+        
+
+        <tr id='total_row'>
+            <td>Total</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+</div>
+<br><br>
+<div id='ending'><b>Time Elapsed: </b>0:00:11.079739</div>
+</body>
+</html>

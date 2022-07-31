@@ -16,7 +16,7 @@ class Login(unittest.TestCase):
     @classmethod
     def setUpClass(inst):
         # create a new Chrome session
-        inst.driver = data.navegador()
+        inst.driver = data.navigator()
         inst.driver.implicitly_wait(4)
         inst.driver.maximize_window()
         # navigate to the application home page
