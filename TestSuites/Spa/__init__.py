@@ -1,4 +1,4 @@
-__all__ = ['Agregar_Servicios_Recomendado__Servicio78','Bolsa_de_Compras15','Boton_de_visualizacion10',
-           'Carrusel_recomendados18','CTA_Ver_Detalles_del_Servicio14','Filtro_de_Servicios_Basicos12',
-           'Filtro_de_Servicios_premium13','Servicios_Recomendados16','Servicios_SPA11']
+__all__ = ['test_Servicios_SPA11','test_Servicios_Recomendados16','test_Carrusel_recomendados18','test_Agregar_Servicios_Recomendado__Servicio78'
+           ,'test_Bolsa_de_Compras15','test_Boton_de_visualizacion10','test_Filtro_de_Servicios_Basicos12','test_Filtro_de_Servicios_premium13',
+           'test_CTA_Ver_Detalles_del_Servicio14']
 
