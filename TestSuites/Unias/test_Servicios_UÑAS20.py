@@ -39,7 +39,7 @@ class Servicios_uñas(unittest.TestCase):
 
     def test_Servicios_uñas(self):
         active_id = get_id_of_active_run("GLITZI")
-        cta_spa = self.driver.find_element(By.XPATH, value='//a[@data-id="Uñas"]')
+        cta_spa = self.driver.find_element(By.XPATH, value='//a[@data-id="Unias"]')
         cta_spa.click()
         url = self.driver.current_url
         if url == data.Web+"servicios/unas":

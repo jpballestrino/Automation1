@@ -2,7 +2,7 @@ import unittest
 from HTMLTestRunner import HTMLTestRunner
 import TestSuites
 from TestSuites.Spa import *
-from TestSuites.Uñas import *
+from TestSuites.Unias import *
 from TestSuites.Cabello import *
 from TestSuites.Iniciar_sesion import *
 from TestSuites.Cerrar_Sesion import *
@@ -15,7 +15,7 @@ import os
 from TestSuites.config.QaseAPI import create_test_run
 
 lista_test_cases_spa=[10,11,12,13,14,15,16,18,78]
-lista_test_cases_uñas=[17,20,32,38,55,59,63,64,79]
+lista_test_cases_unias=[17,20,32,38,55,59,63,64,79]
 lista_test_cases_cabello=[26,66,40,33,57,69,19,61,81]
 lista_test_cases_maquillaje=[34,39]
 lista_test_cases_agendar_y_pagar=[119,120]
@@ -23,7 +23,7 @@ lista_test_cases_cerrar_sesion=[111]
 lista_test_cases_iniciar_sesion=[75]
 
 
-lista_test_cases=[*lista_test_cases_spa,*lista_test_cases_uñas,*lista_test_cases_cabello,*lista_test_cases_iniciar_sesion,
+lista_test_cases=[*lista_test_cases_spa,*lista_test_cases_unias,*lista_test_cases_cabello,*lista_test_cases_iniciar_sesion,
                   *lista_test_cases_agendar_y_pagar,*lista_test_cases_cerrar_sesion,*lista_test_cases_maquillaje]
 
 create_test_run("Automatic Test Run","Prueba Test Suite API","GLITZI",lista_test_cases,2)
