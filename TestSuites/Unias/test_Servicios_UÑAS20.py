@@ -39,8 +39,8 @@ class Servicios_uñas(unittest.TestCase):
 
     def test_Servicios_uñas(self):
         active_id = get_id_of_active_run("GLITZI")
-        cta_spa = self.driver.find_element(By.XPATH, value='//a[@data-id="Unias"]')
-        cta_spa.click()
+        cta_unias = self.driver.find_element(By.XPATH, value='/html/body/div[3]/div/div[2]/div/div/div/div/div[2]/a/div/div[2]')
+        cta_unias.click()
         url = self.driver.current_url
         if url == data.Web+"servicios/unas":
             actualizar_state("GLITZI", status_test="passed", case_id=20, run_id=active_id)

@@ -3,6 +3,18 @@ import requests
 
 # API token: "154f61512d2aff33141c7ca96aea23bf2623b3cb"
 
+def delete_test_run(project,id):
+    url = "https://api.qase.io/v1/run/"+project+"/"+str(id)
+
+    headers = {
+        "Accept": "application/json",
+        "Token": "154f61512d2aff33141c7ca96aea23bf2623b3cb"
+    }
+
+    response = requests.delete(url, headers=headers)
+
+    print(response.text)
+
 def create_test_run(title,
                     description,
                     project_code,lista_test_cases,environment_id) -> None:

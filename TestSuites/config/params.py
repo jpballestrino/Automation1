@@ -12,6 +12,14 @@ class dataEnv():
     email="mail31696@irondev.com.mx"
     password="123456"
 
+    nro_tarjeta_credito="4111111111111111"
+    paypal="guillermo-buyer@glitzi.com.mx"
+    paypal_password="glitzidev2020"
+
+    nro_tarjeta_debito="4000058260000005"
+
+
+
     def navigator(self):
         nav="chrome"
         if nav=="chrome":
