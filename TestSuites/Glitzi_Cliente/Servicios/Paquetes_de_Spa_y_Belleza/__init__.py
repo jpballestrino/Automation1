@@ -1,0 +1,3 @@
+__all__=['test_Carrusel_recomendados49','test_Servicios_recomendados48','test_Agregar_Servicios_Recomendado__Servicio83','test_CTA_Ver_Detalles_del_Servicio46'
+    ,'test_Bolsa_de_compras47','test_Servicios_Pspa_y_Belleza29','test_Filtro_de_Masajes_y_Faciales42',
+         'test_Filtro_de_Corte_de_Cabello45','test_Boton_de_visualizacion23','test_Filtro_de_Maquillaje_y_Peinado44','test_Filtro_de_Mani_y_Pedi36']

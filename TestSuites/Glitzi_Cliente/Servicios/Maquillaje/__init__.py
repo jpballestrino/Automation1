@@ -1,0 +1,2 @@
+__all__=["test_Filtro_de_Maquillaje_de_dia34","test_Filtro_de_Maquillaje_de_noche39","test_Servicios_MAQUILLAJE27","test_Servicios_recomendados65","test_Carrusel_recomendados68","test_Agregar_Servicios_Recomendado__Servicio80"
+         ,"test_Bolsa_de_compras60","test_Boton_de_visualizacion21","test_CTA_Ver_Detalles_del_Servicio56"]

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test report</title>
+    <meta name="generator" content="HTMLTestRunner 1.0.17"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" href="stylesheet.css">
+    <script src="script.js"></script>
+    <style>
+        
+    </style>
+    <script>
+        
+    </script>
+</head>
+<body>
+<div class='heading'>
+    <h1 style="margin-left:1ex;">Test report</h1>
+    
+    <p class='attribute'><strong>Start Time : </strong> 2022-08-07 12:07:18</p>
+    
+    <p class='attribute'><strong>Duration : </strong> 0:00:22.884887</p>
+    
+    <p class='attribute'><strong>Status : </strong> Pass 1 Error 1</p>
+    
+    <p class='attribute'><strong>Descrition : </strong> HTMLTestReport</p>
+    
+    <p class='attribute'><strong>Tested By : </strong> Unknown</p>
+    
+</div>
+<div>
+    <p id='show_detail_line'><b>Show</b>
+        <button><a href='javascript:showCase(0)' style="color:#660066;">Summary</a></button>
+        <button><a href='javascript:showCase(1)' style="color:#660066;">Failed</a></button>
+        <button><a href='javascript:showCase(2)' style="color:#660066;">Passed</a></button>
+        <button><a href='javascript:showCase(3)' style="color:#660066;">All</a></button>
+    </p>
+    <table id='result_table'>
+        <colgroup>
+            <col align='left'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+        </colgroup>
+        <tr id='header_row'>
+            <td>Test Group/Test case</td>
+            <td>Count</td>
+            <td>Pass</td>
+            <td>Fail</td>
+            <td>Error</td>
+            <td>View</td>
+        </tr>
+        
+        <tr class='errorClass' style="font-weight:bold;color:white;">
+            <td><a href="javascript:showClassDetail('c1','1')">TestSuites.Glitzi_Cliente.Servicios.Paquetes_de_Spa_y_Belleza.test_Carrusel_recomendados49.carusel_belleza_recom</a></td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td>
+                <button><a href="javascript:showClassDetail('c1','1')"
+                           style="color:#660066;">Detail</a></button>
+            </td>
+        </tr>
+            
+            <tr id="ft1.1" class='none'>
+                <td class='errorCase'>
+                    <div class='testcase'>
+                        <a class="popup_link" onfocus='this.blur();'
+                           href="javascript:showTestDetail('div_ft1.1')">test_carousel</a>
+                    </div>
+                </td>
+                <td colspan='5' align='center'>
+                    <div>
+                        <!--css div popup start-->
+                        <button>
+                            <a class="popup_link" onfocus='this.blur();'
+                               href="javascript:showTestDetail('div_ft1.1')" style="color:#660066;">
+                                ERROR
+                            </a></button>
+                        <div id='div_ft1.1' class="popup_window">
+                            <div style='text-align: right; color:red;cursor:pointer'>
+                                <a onfocus='this.blur();'
+                                   onclick="document.getElementById('div_ft1.1').style.display = 'none'; "
+                                   style="color:red;">
+                                    [x]</a>
+                            </div>
+                            <pre></pre>
+                            <pre style="color: red;">Traceback (most recent call last):
+  File "C:\Users\juanp\PycharmProjects\Automation1\TestSuites\Glitzi_Cliente\Servicios\Paquetes_de_Spa_y_Belleza\test_Carrusel_recomendados49.py", line 37, in test_carousel
+    elemento_en_bolsa = self.driver.find_element(By.XPATH, value='//*[@id="ml-service-5"]/div[2]/div/div[1]/span')
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 857, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 435, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ml-service-5"]/div[2]/div/div[1]/span"}
+  (Session info: chrome=104.0.5112.80)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x008F78B3+2193587]
+	Ordinal0 [0x00890681+1771137]
+	Ordinal0 [0x007A41A8+803240]
+	Ordinal0 [0x007D24A0+992416]
+	Ordinal0 [0x007D273B+993083]
+	Ordinal0 [0x007FF7C2+1177538]
+	Ordinal0 [0x007ED7F4+1103860]
+	Ordinal0 [0x007FDAE2+1170146]
+	Ordinal0 [0x007ED5C6+1103302]
+	Ordinal0 [0x007C77E0+948192]
+	Ordinal0 [0x007C86E6+952038]
+	GetHandleVerifier [0x00BA0CB2+2738370]
+	GetHandleVerifier [0x00B921B8+2678216]
+	GetHandleVerifier [0x009817AA+512954]
+	GetHandleVerifier [0x00980856+509030]
+	Ordinal0 [0x0089743B+1799227]
+	Ordinal0 [0x0089BB68+1817448]
+	Ordinal0 [0x0089BC55+1817685]
+	Ordinal0 [0x008A5230+1856048]
+	BaseThreadInitThunk [0x76386739+25]
+	RtlGetFullPathName_UEx [0x77618FEF+1215]
+	RtlGetFullPathName_UEx [0x77618FBD+1165]
+
+</pre>
+                        </div>
+                        <!--css div popup end-->
+                    </div>
+                </td>
+            </tr>
+            
+        
+        <tr class='passClass' style="font-weight:bold;color:white;">
+            <td><a href="javascript:showClassDetail('c2','1')">TestSuites.Glitzi_Cliente.Servicios.Maquillaje.test_Carrusel_recomendados68.carusel_maquillaje_recom</a></td>
+            <td>1</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>
+                <button><a href="javascript:showClassDetail('c2','1')"
+                           style="color:#660066;">Detail</a></button>
+            </td>
+        </tr>
+            
+            <tr id="pt2.1" class='hiddenRow'>
+                <td class='passCase'>
+                    <div class='testcase'>
+                        <a class="popup_link" onfocus='this.blur();'
+                           href="javascript:showTestDetail('div_pt2.1')">test_carousel</a>
+                    </div>
+                </td>
+                <td colspan='5' align='center'>
+                    <div>
+                        <!--css div popup start-->
+                        <button>
+                            <a class="popup_link" onfocus='this.blur();'
+                               href="javascript:showTestDetail('div_pt2.1')" style="color:#660066;">
+                                PASS
+                            </a></button>
+                        <div id='div_pt2.1' class="popup_window">
+                            <div style='text-align: right; color:red;cursor:pointer'>
+                                <a onfocus='this.blur();'
+                                   onclick="document.getElementById('div_pt2.1').style.display = 'none'; "
+                                   style="color:red;">
+                                    [x]</a>
+                            </div>
+                            <pre></pre>
+                            <pre style="color: red;"></pre>
+                        </div>
+                        <!--css div popup end-->
+                    </div>
+                </td>
+            </tr>
+            
+        
+
+        <tr id='total_row'>
+            <td>Total</td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+            <td>1</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+</div>
+<br><br>
+<div id='ending'><b>Time Elapsed: </b>0:00:22.884887</div>
+</body>
+</html>

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test report</title>
+    <meta name="generator" content="HTMLTestRunner 1.0.17"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" href="stylesheet.css">
+    <script src="script.js"></script>
+    <style>
+        
+    </style>
+    <script>
+        
+    </script>
+</head>
+<body>
+<div class='heading'>
+    <h1 style="margin-left:1ex;">Test report</h1>
+    
+    <p class='attribute'><strong>Start Time : </strong> 2022-08-05 20:56:01</p>
+    
+    <p class='attribute'><strong>Duration : </strong> 0:00:23.364051</p>
+    
+    <p class='attribute'><strong>Status : </strong> Pass 1 Error 1</p>
+    
+    <p class='attribute'><strong>Descrition : </strong> HTMLTestReport</p>
+    
+    <p class='attribute'><strong>Tested By : </strong> Unknown</p>
+    
+</div>
+<div>
+    <p id='show_detail_line'><b>Show</b>
+        <button><a href='javascript:showCase(0)' style="color:#660066;">Summary</a></button>
+        <button><a href='javascript:showCase(1)' style="color:#660066;">Failed</a></button>
+        <button><a href='javascript:showCase(2)' style="color:#660066;">Passed</a></button>
+        <button><a href='javascript:showCase(3)' style="color:#660066;">All</a></button>
+    </p>
+    <table id='result_table'>
+        <colgroup>
+            <col align='left'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+            <col align='right'/>
+        </colgroup>
+        <tr id='header_row'>
+            <td>Test Group/Test case</td>
+            <td>Count</td>
+            <td>Pass</td>
+            <td>Fail</td>
+            <td>Error</td>
+            <td>View</td>
+        </tr>
+        
+        <tr class='passClass' style="font-weight:bold;color:white;">
+            <td><a href="javascript:showClassDetail('c1','1')">TestSuites.Cabello.test_Carrusel_recomendados69.carusel_cabello_recom</a></td>
+            <td>1</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>
+                <button><a href="javascript:showClassDetail('c1','1')"
+                           style="color:#660066;">Detail</a></button>
+            </td>
+        </tr>
+            
+            <tr id="pt1.1" class='hiddenRow'>
+                <td class='passCase'>
+                    <div class='testcase'>
+                        <a class="popup_link" onfocus='this.blur();'
+                           href="javascript:showTestDetail('div_pt1.1')">test_carousel</a>
+                    </div>
+                </td>
+                <td colspan='5' align='center'>
+                    <div>
+                        <!--css div popup start-->
+                        <button>
+                            <a class="popup_link" onfocus='this.blur();'
+                               href="javascript:showTestDetail('div_pt1.1')" style="color:#660066;">
+                                PASS
+                            </a></button>
+                        <div id='div_pt1.1' class="popup_window">
+                            <div style='text-align: right; color:red;cursor:pointer'>
+                                <a onfocus='this.blur();'
+                                   onclick="document.getElementById('div_pt1.1').style.display = 'none'; "
+                                   style="color:red;">
+                                    [x]</a>
+                            </div>
+                            <pre></pre>
+                            <pre style="color: red;"></pre>
+                        </div>
+                        <!--css div popup end-->
+                    </div>
+                </td>
+            </tr>
+            
+        
+        <tr class='errorClass' style="font-weight:bold;color:white;">
+            <td><a href="javascript:showClassDetail('c2','1')">TestSuites.Cabello.test_Agregar_Servicios_Recomendado__Servicio81.serv_recom_y_serv</a></td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td>
+                <button><a href="javascript:showClassDetail('c2','1')"
+                           style="color:#660066;">Detail</a></button>
+            </td>
+        </tr>
+            
+            <tr id="ft2.1" class='none'>
+                <td class='errorCase'>
+                    <div class='testcase'>
+                        <a class="popup_link" onfocus='this.blur();'
+                           href="javascript:showTestDetail('div_ft2.1')">test_bolsa</a>
+                    </div>
+                </td>
+                <td colspan='5' align='center'>
+                    <div>
+                        <!--css div popup start-->
+                        <button>
+                            <a class="popup_link" onfocus='this.blur();'
+                               href="javascript:showTestDetail('div_ft2.1')" style="color:#660066;">
+                                ERROR
+                            </a></button>
+                        <div id='div_ft2.1' class="popup_window">
+                            <div style='text-align: right; color:red;cursor:pointer'>
+                                <a onfocus='this.blur();'
+                                   onclick="document.getElementById('div_ft2.1').style.display = 'none'; "
+                                   style="color:red;">
+                                    [x]</a>
+                            </div>
+                            <pre></pre>
+                            <pre style="color: red;">Traceback (most recent call last):
+  File "C:\Users\juanp\PycharmProjects\Automation1\TestSuites\Cabello\test_Agregar_Servicios_Recomendado__Servicio81.py", line 28, in test_bolsa
+    CTA_detalle = self.driver.find_element(By.XPATH, value='//*[@id="service-1421"]/div/div[3]/a')
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 857, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 435, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\juanp\PycharmProjects\Automation1\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="service-1421"]/div/div[3]/a"}
+  (Session info: chrome=104.0.5112.80)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004078B3+2193587]
+	Ordinal0 [0x003A0681+1771137]
+	Ordinal0 [0x002B41A8+803240]
+	Ordinal0 [0x002E24A0+992416]
+	Ordinal0 [0x002E273B+993083]
+	Ordinal0 [0x0030F7C2+1177538]
+	Ordinal0 [0x002FD7F4+1103860]
+	Ordinal0 [0x0030DAE2+1170146]
+	Ordinal0 [0x002FD5C6+1103302]
+	Ordinal0 [0x002D77E0+948192]
+	Ordinal0 [0x002D86E6+952038]
+	GetHandleVerifier [0x006B0CB2+2738370]
+	GetHandleVerifier [0x006A21B8+2678216]
+	GetHandleVerifier [0x004917AA+512954]
+	GetHandleVerifier [0x00490856+509030]
+	Ordinal0 [0x003A743B+1799227]
+	Ordinal0 [0x003ABB68+1817448]
+	Ordinal0 [0x003ABC55+1817685]
+	Ordinal0 [0x003B5230+1856048]
+	BaseThreadInitThunk [0x76386739+25]
+	RtlGetFullPathName_UEx [0x77618FEF+1215]
+	RtlGetFullPathName_UEx [0x77618FBD+1165]
+
+</pre>
+                        </div>
+                        <!--css div popup end-->
+                    </div>
+                </td>
+            </tr>
+            
+        
+
+        <tr id='total_row'>
+            <td>Total</td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+            <td>1</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+</div>
+<br><br>
+<div id='ending'><b>Time Elapsed: </b>0:00:23.364051</div>
+</body>
+</html>

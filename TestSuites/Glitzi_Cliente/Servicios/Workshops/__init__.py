@@ -1,0 +1,2 @@
+__all__=['test_CTA_Ver_Detalles_del_servicio51', 'test_Agregar_Servicios_Recomendados__Servicio84', 'test_Servicios_recomendados53', 'test_Servicios_WORKSHOP30',
+         'test_Carrusel_recomendados54','test_Filtro_de_Relajacion43','test_Filtro_de_Belleza37','test_Bolsa_de_compras52','test_Boton_de_visualizacion24']

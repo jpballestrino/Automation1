@@ -45,7 +45,6 @@ def actualizar_state(project_code,status_test,case_id,run_id):
     payload = {
         "status": status_test,
         "case_id": case_id,
-        "comment": "Este test case fallo"
     }
     headers = {
         "Accept": "application/json",
@@ -67,3 +66,15 @@ def get_id_of_active_run(project_code):
     response = requests.request("GET",url, headers=headers)
 
     return str(response.json()["result"]["entities"][0]["id"])
+
+def complete_run(project_code,id):
+    url = "https://api.qase.io/v1/run/"+project_code+"/"+id+"/complete"
+
+    headers = {
+        "Accept": "application/json",
+        "Token": "154f61512d2aff33141c7ca96aea23bf2623b3cb"
+    }
+
+    response = requests.post(url, headers=headers)
+
+    print(response.text)
